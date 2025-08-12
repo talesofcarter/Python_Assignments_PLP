@@ -5,9 +5,10 @@ def calculate_discount(price, discount_percent):
         return discounted_price
     else:
         return price
-    
-print(calculate_discount(1250, 30)) #875
-print(calculate_discount(1250, 10)) #1250
-print(calculate_discount(600, 73)) #162
-print(calculate_discount(100, 20)) #80
-print(calculate_discount(25957, 21)) #20,506.03
+
+# prompt the user to enter the initial price and percentage discount
+marked_price = float(input("Enter the initial price: "))
+discount_percent = float(input("Enter the percentage discount: "))
+
+final_price = calculate_discount(marked_price, discount_percent)
+print(f"The final price is {final_price}")

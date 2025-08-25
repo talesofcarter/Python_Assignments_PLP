@@ -6,7 +6,6 @@ def calculate_discount(price, discount_percent):
     else:
         return price
 
-
 # prompt the user to enter the initial price and percentage discount
 marked_price = float(input("Enter the initial price: "))
 discount_percent = float(input("Enter the percentage discount: "))

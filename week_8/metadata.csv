@@ -1,0 +1,51 @@
+cord_uid,title,abstract,publish_time,authors,journal,source_x
+abc123,Study of SARS-CoV-2 Transmission,Investigation of viral spread in urban settings,2020-05-12,Smith J;Lee K,Virology,PMC
+def456,Antiviral Drug Efficacy,Analysis of drug effects on coronaviruses,2019-11-30,Chen L;Patel R,J Med Chem,Elsevier
+ghi789,COVID-19 Immune Response,Study of immune system activation in patients,2020-07-01,Wong A;Kim S,Immunology,PMC
+jkl012,Vaccine Development Progress,Overview of mRNA vaccine trials,2021-03-15,Jones M;Garcia T,J Virol,PMC
+mno345,Epidemiology of COVID-19,Case study of outbreak patterns,2020-09-10,Brown P;Taylor E,Lancet,Elsevier
+pqr678,Mask Effectiveness,Impact of mask-wearing on transmission,2020-06-22,Li H;Davis C,Public Health,PMC
+stu901,Genetic Mutations in SARS-CoV-2,Analysis of viral genome changes,2021-01-05,Zhang Y;Wilson B,J Clin Virol,Elsevier
+vwx234,Clinical Outcomes of COVID-19,Patient recovery data from hospitals,2020-12-18,Martin D;Nguyen V,BMJ,PMC
+yza567,Lockdown Effects on Spread,Modeling social distancing impacts,2020-04-30,Clark S;Adams R,Epidemiology,PMC
+bcd890,Antibody Testing Accuracy,Evaluation of serology test performance,2020-08-25,Moore J;Lee M,J Clin Microbiol,Elsevier
+efg123,Viral Load Dynamics,Study of viral load in infected patients,2019-12-10,Kumar P;Chen H,J Infect Dis,PMC
+hij456,Therapeutics for COVID-19,Review of treatment options,2020-10-15,Patel S;Wong K,Clin Ther,Elsevier
+klm789,Respiratory Symptoms Analysis,Data on COVID-19 respiratory effects,2020-03-20,Taylor J;Smith L,Respir Med,PMC
+nop012,Hospitalization Trends,Analysis of hospital admission rates,2021-02-28,Garcia M;Brown C,Am J Public Health,PMC
+qrs345,PCR Testing Sensitivity,Study of PCR test reliability,2020-07-10,Davis T;Li Y,J Clin Lab Anal,Elsevier
+tuv678,Ventilator Use Outcomes,Impact of ventilators on patient recovery,2020-11-05,Wilson E;Zhang R,Crit Care Med,PMC
+wxy901,Social Distancing Models,Simulation of distancing policies,2020-05-30,Adams K;Moore S,PLoS One,PMC
+zab234,Immune System Memory,Long-term immunity in COVID-19 patients,2021-04-12,Nguyen J;Clark P,Cell Immunol,Elsevier
+cde567,Viral Transmission Rates,Study of R0 in different settings,2020-06-15,Lee C;Kumar D,Emerg Infect Dis,PMC
+fgh890,Monoclonal Antibodies,Development of antibody therapies,2020-09-20,Chen S;Martin T,J Exp Med,PMC
+ijk123,Asymptomatic Spread,Analysis of silent transmission,2020-08-10,Patel K;Jones L,Infect Dis Clin,Elsevier
+lmn456,Pandemic Modeling,Mathematical models of COVID-19 spread,2020-04-05,Smith R;Wong E,Math Biosci,PMC
+opq789,Contact Tracing Efficacy,Effectiveness of tracing programs,2020-12-01,Brown M;Taylor S,Am J Epidemiol,PMC
+rst012,Children and COVID-19,Study of pediatric cases,2021-01-20,Garcia E;Li C,Pediatrics,PMC
+uvw345,Herd Immunity Thresholds,Analysis of population immunity,2020-07-25,Zhang T;Davis J,J Theor Biol,Elsevier
+xyz678,Vaccine Side Effects,Data on adverse reactions to vaccines,2021-03-10,Wilson C;Moore K,Vaccine,PMC
+abc901,Long COVID Symptoms,Study of post-acute COVID-19 effects,2020-11-30,Adams L;Nguyen P,Clin Infect Dis,Elsevier
+def234,Airborne Transmission,Mechanisms of viral spread via air,2020-06-01,Clark T;Chen R,J Aerosol Sci,PMC
+ghi567,Diagnostic Test Comparison,Evaluation of rapid test methods,2020-09-15,Lee S;Patel M,Diagn Microbiol Infect Dis,Elsevier
+jkl890,T-Cell Responses,Analysis of cellular immunity,2020-05-20,Jones E;Kumar S,Immunol Rev,PMC
+mno123,Public Health Interventions,Impact of policies on case rates,2020-10-10,Brown K;Taylor L,Health Policy,Elsevier
+pqr456,Genomic Sequencing,Tracking SARS-CoV-2 variants,2021-02-15,Smith C;Garcia P,Nat Genet,PMC
+stu789,ICU Admission Trends,Data on critical care needs,2020-08-05,Li M;Wilson R,Crit Care,PMC
+vwx012,Viral Shedding Duration,Study of infectious period length,2020-04-25,Zhang E;Adams J,J Med Virol,Elsevier
+yza345,Reinfection Rates,Analysis of repeat infections,2021-01-10,Moore P;Clark S,Clin Microbiol Infect,PMC
+bcd678,Seroprevalence Studies,Population antibody prevalence,2020-07-01,Nguyen K;Lee T,Epidemiol Infect,PMC
+efg901,Antiviral Resistance,Study of drug resistance patterns,2020-12-05,Patel R;Chen L,Antiviral Res,Elsevier
+hij234,Hospital Capacity Models,Simulation of bed usage,2020-06-20,Taylor E;Smith K,Health Serv Res,PMC
+klm567,Mask Material Efficacy,Comparison of mask materials,2020-09-10,Garcia S;Brown M,J Hosp Infect,Elsevier
+nop890,Symptom Prevalence,Data on common COVID-19 symptoms,2020-05-15,Li T;Wilson C,BMJ Open,PMC
+qrs123,Testing Turnaround Time,Analysis of test result delays,2020-11-01,Zhang P;Adams R,Public Health Rep,PMC
+tuv456,Vaccine Distribution,Logistics of vaccine rollout,2021-03-05,Moore S;Clark L,Health Syst,Elsevier
+wxy789,Immune Escape Variants,Study of variant immune evasion,2020-08-20,Nguyen E;Lee C,Nat Immunol,PMC
+zab012,Contact Patterns,Analysis of social contact data,2020-04-10,Patel T;Smith S,Soc Sci Med,PMC
+cde345,Antibody Duration,Longevity of antibodies post-infection,2020-10-25,Chen K;Taylor P,J Infect,Elsevier
+fgh678,Transmission in Schools,Study of school-based spread,2020-07-15,Wilson M;Garcia C,J Sch Health,PMC
+ijk901,Ventilation Systems,Impact of ventilation on transmission,2020-12-10,Adams S;Li P,Build Environ,Elsevier
+lmn234,Comorbidity Effects,Analysis of COVID-19 and comorbidities,2020-06-05,Brown T;Zhang L,Int J Infect Dis,PMC
+opq567,Health Equity,Study of disparities in COVID-19 outcomes,2020-09-30,Moore C;Clark E,Health Aff,PMC
+rst890,Post-Vaccination Immunity,Analysis of vaccine-induced immunity,2021-02-20,Smith P;Patel K,Lancet Infect Dis,Elsevier
